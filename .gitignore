@@ -1,0 +1,6 @@
+__pycache__/
+arquivos_zip/
+estabelecimento_teste/
+extracted_zip/
+venv/*
+anotacao.txt
