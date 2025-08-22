@@ -27,4 +27,4 @@ if __name__ == '__main__':
     # asyncio.run(main())
     # juntar_csvs()
     # verificarCNPJ()
-    pegarproxy()
+    # pegarproxy()
